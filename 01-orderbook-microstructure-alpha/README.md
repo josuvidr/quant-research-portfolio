@@ -1,7 +1,7 @@
 # Order Book Microstructure Alpha
 
 **Objective:**  
-Explore whether limit order book (LOB) features — specifically order book imbalance — can predict short-horizon returns.  
+Explore whether limit order book (LOB) features - specifically order book imbalance — can predict short-horizon returns.  
 This project replicates core ideas used in high-frequency and short-term predictive models.
 
 **Key components:**  
